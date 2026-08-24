@@ -36,4 +36,4 @@ Homepage: https://tvpaint-craft.softnation.xyz
 ## ✨ Highlights
 1. **Color Management:** ICC profile support, soft-proofing, and CMYK workflow for print output.
 2. **Typography Engine:** Advanced text layout, OpenType features, and variable font support.
-3. **Asset Library:** Organized template, brush, and preset collections with cloud sync.      
+3. **Asset Library:** Organized template, brush, and preset collections with cloud sync.       
